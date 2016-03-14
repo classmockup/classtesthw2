@@ -1,1 +1,3 @@
-# classtesthw2
+# NGEDE-2500
+
+Welcome to the New Student Seminar. This is a required first semester course for new freshmen and transfer students enrolled in the Steinhardt School of Culture, Education, and Human Development.  The seminar is an orientation to the University and School.  Students are introduced to the nature of higher education and, in particular, to their programs of study.  New Student Seminar provides a setting for new students and faculty to share ideas and examine problems/issues common to the new student experience. And finally, using the new student theme and the new student reading as a guide, students begin to actively explore their roles as members of our diverse and global academic community, and as future professionals in their chosen fields.
